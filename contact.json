@@ -1,0 +1,4016 @@
+[
+    {
+        "name": "API Hospital ",
+        "number": "096-420912",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Dadeldhura",
+        "city": "Amargadhi",
+        "latitude": 29.3013,
+        "longitude": 80.5925
+    },
+    {
+        "name": "Aadhar Hospital ",
+        "number": "023-530115",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Achham District Police ",
+        "number": "097-620100",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Achham",
+        "latitude": 29.0384,
+        "longitude": 81.2519
+    },
+    {
+        "name": "Air Ambulance Nepal ",
+        "number": "986-0555163",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kathmandu ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Akhil Nepal Chiya Majdur Sangh",
+        "number": "981-4952000",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Alka Hospital ",
+        "number": "01-5970795",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Lagankhel",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Alka Hospital Ambulance ",
+        "number": "01-5970795",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Jawalakhel",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Ama-baa Hospital Pvt ltd ",
+        "number": "064-420250",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Gorkha",
+        "city": "Abukhaireni",
+        "latitude": 28.4244,
+        "longitude": 84.6233
+    },
+    {
+        "name": "Amalachaur Ambulance Service ",
+        "number": "980-5153135",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Parbat",
+        "city": "Amalachaur ",
+        "latitude": 28.2031,
+        "longitude": 83.6761
+    },
+    {
+        "name": "Ambulance Garuda ",
+        "number": "985-5042065",
+        "category": "Ambulance",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "city": "Garauda ",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Ambulance Lalitpur Municipality ",
+        "number": "01-5527003",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Pulchowk",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Ambulance Ram Prasad Timalsina ",
+        "number": "985-5083945",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Ambulance Service NACoDS",
+        "number": "061-441100",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Lamachaur ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Ambulance Service Ramghat",
+        "number": "061-521091",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Ramghat ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Ambulance Service Siddhartha Club",
+        "number": "061-530200",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Siddharthachowk",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Ambulance Station ",
+        "number": "980-5413744",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Siyari",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Amda Hospital Ambulance Service ",
+        "number": "023-580989",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Anamika hospital Pvt.Ltd ",
+        "number": "055-565077",
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "city": "Garudas",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Apollo hospital ",
+        "number": 9845474416,
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "city": "Gaaur",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Arba Ambulance ",
+        "number": "985-6037658",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Arghakhanchi District Hospital ",
+        "number": "077-420257",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Arghakhanchi",
+        "city": "Sandhikharka",
+        "latitude": 27.9972,
+        "longitude": 83.0367
+    },
+    {
+        "name": "Arghakhanchi District Police ",
+        "number": "077-420199",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Arghakhanchi",
+        "latitude": 27.9972,
+        "longitude": 83.0367
+    },
+    {
+        "name": "B and B Hospital ",
+        "number": "01-5531930",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Lalitpur ",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "B and C Medical College Teaching Hospital and Research Center Pvt Ltd ",
+        "number": "023-542242",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "BP Koirala Institute of Health Science ",
+        "number": "984-5052350",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "BP Koirala Memorial Cancer Hospital ",
+        "number": "056-524501",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "BP Koirala Memorial Cancer Hospital ",
+        "number": "056-524501",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "BP Smirti Hospital ",
+        "number": "984-1447710",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Basundhara ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Baglung Airport ",
+        "number": "068-413133",
+        "category": "Airpot",
+        "province": "Province 4",
+        "district": "Baglung",
+        "latitude": 28.2713,
+        "longitude": 83.5832
+    },
+    {
+        "name": "Baglung District Police ",
+        "number": "068-520199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Baglung",
+        "latitude": 28.2713,
+        "longitude": 83.5832
+    },
+    {
+        "name": "Bahundangi Service Society Ambulance Service ",
+        "number": "974-2646722",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Bahundangi ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Baitadi Airport ",
+        "number": "095-400050",
+        "category": "Airpot",
+        "province": "Province 7",
+        "district": "Baitadi",
+        "latitude": 29.5012,
+        "longitude": 80.5519
+    },
+    {
+        "name": "Baitadi District Hospital ",
+        "number": "095-520065",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Baitadi",
+        "city": "Dasharathchand ",
+        "latitude": 29.5012,
+        "longitude": 80.5519
+    },
+    {
+        "name": "Baitadi District Police ",
+        "number": "095-520199",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Baitadi",
+        "latitude": 29.5012,
+        "longitude": 80.5519
+    },
+    {
+        "name": "Bajhang District Hospital ",
+        "number": "092-421255",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Bajhang",
+        "city": "Jayaprithivi",
+        "latitude": 29.747,
+        "longitude": 81.3235
+    },
+    {
+        "name": "Bajhang District Police ",
+        "number": "092-421004",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Bajhang",
+        "latitude": 29.747,
+        "longitude": 81.3235
+    },
+    {
+        "name": "Bajura Airport ",
+        "number": "985-6077523",
+        "category": "Airpot",
+        "province": "Province 7",
+        "district": "Bajura",
+        "latitude": 29.6313,
+        "longitude": 81.5306
+    },
+    {
+        "name": "Bajura District Police ",
+        "number": "097-421005",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Bajura",
+        "latitude": 29.6313,
+        "longitude": 81.5306
+    },
+    {
+        "name": "Balmaitri hospital ",
+        "number": "044-550555",
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Mahottari",
+        "city": "Bardibas",
+        "latitude": 26.8672,
+        "longitude": 85.7991
+    },
+    {
+        "name": "Balram Karki Ambulance ",
+        "number": "984-3274865",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Banke District Police ",
+        "number": "081-520211",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Banke",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Bara District Police ",
+        "number": "053-550100",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Bara",
+        "latitude": 27.1347,
+        "longitude": 85.0534
+    },
+    {
+        "name": "Bardan Hospital Pvt Ltd ",
+        "number": "064-420482",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Gorkha",
+        "city": "Gorkha ",
+        "latitude": 28.4244,
+        "longitude": 84.6233
+    },
+    {
+        "name": "Bardiya Aayurved Centre",
+        "number": "980-0504030",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Bardiya",
+        "city": "Bansagadhi",
+        "latitude": 28.3258,
+        "longitude": 81.4279
+    },
+    {
+        "name": "Bardiya Blood Bank ",
+        "number": "084-420835",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Bardiya",
+        "latitude": 28.3258,
+        "longitude": 81.4279
+    },
+    {
+        "name": "Bardiya District Hospital ",
+        "number": "084-421177",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Bardiya",
+        "city": "Gulariya",
+        "latitude": 28.3258,
+        "longitude": 81.4279
+    },
+    {
+        "name": "Bardiya District Police ",
+        "number": "084-420028",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Bardiya",
+        "latitude": 28.3258,
+        "longitude": 81.4279
+    },
+    {
+        "name": "Bardiya Public Hospital",
+        "number": "986-8023402",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Bardiya",
+        "city": "Katraniya",
+        "latitude": 28.3258,
+        "longitude": 81.4279
+    },
+    {
+        "name": "Bhagawati Health Post ",
+        "number": "984-8784745",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Darchula",
+        "latitude": 29.8728,
+        "longitude": 80.5292
+    },
+    {
+        "name": "Bhagawati Samaj ",
+        "number": "980-4910985",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Bhaktapur District Police ",
+        "number": "01-6610954",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Bhaktapur Hospital ",
+        "number": "01-6610798",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Bhaktapur ",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Bhaktapur International Hospital ",
+        "number": "01-6637171",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Madhyapur thimi",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Bhaktapur Nepal Red Cross Society Blood Bank ",
+        "number": "01-4221119",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Bharatpur Airport ",
+        "number": "056-524975",
+        "category": "Airpot",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Bharatpur Hospital ",
+        "number": "056-597003",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Bharosa Hospital ",
+        "number": "01-4450493",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Mid baneshor ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Bharosa Hospital Pvt Ltd ",
+        "number": "01-4475999",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Devkota sadak",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Bheri Hospital ",
+        "number": "Bheri Hospital ",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Nepalgunj ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Bhim Hospital ",
+        "number": "071-520193",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Siddharthanagar ",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Bhojpur Airport ",
+        "number": "029-420118",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Bhojpur",
+        "latitude": 27.1741,
+        "longitude": 87.0524
+    },
+    {
+        "name": "Bhojpur District Hospital ",
+        "number": "029-420188",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Bhojpur",
+        "latitude": 27.1741,
+        "longitude": 87.0524
+    },
+    {
+        "name": "Bhojpur District Police ",
+        "number": "029-420199",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Bhojpur",
+        "latitude": 27.1741,
+        "longitude": 87.0524
+    },
+    {
+        "name": "Bhojpuri Airport ",
+        "number": "029-420118",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Bhojpur",
+        "latitude": 27.1741,
+        "longitude": 87.0524
+    },
+    {
+        "name": "Bijayapur Hospital ",
+        "number": "025-533490",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Sunsari",
+        "city": "Dharan",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Bimal Thapa ",
+        "number": "980-5844418",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Kaski",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Bir Hospital ",
+        "number": "01-4221119",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kanti path",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Bir Hospital ",
+        "number": "01-4221119",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Bir Hospital ",
+        "number": "01-4221119",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kantipath",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Biratnagar Airport ",
+        "number": "021-461424",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Biratnagar ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Biratnagar Airport ",
+        "number": "021-461424",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Morang",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Birendra Army Hospital ",
+        "number": "01-4274019",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Chauni hospital RD",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Birendra Army Hospital ",
+        "number": "01-4274019",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Birta City Hospital ",
+        "number": "023-544855",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Bishal Bazar Ambulance Service ",
+        "number": "01-4244121",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Bisal bazar",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Bkati Prasad Smiriti Ambulance ",
+        "number": "981-4910410",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Blood bank ",
+        "number": "071-541004",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Butwal",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Blood for Humanity ",
+        "number": "984-1193383",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Rangeli",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Blue Cross Hospital ",
+        "number": "01-4262027",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Tripureshor ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Boardlink ",
+        "number": "021-521252",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Biratnagar ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Central Blood Bank ",
+        "number": "01-4288486",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Rabi bhawan",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Chamber of commerce ",
+        "number": "01-4230213",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Chhetrapati ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Chandragadi Airport ",
+        "number": "023-455432",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Chandragadi ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Chandragadi Airport ",
+        "number": "023-455432",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Charak Memorial Hospital Pvt Ltd ",
+        "number": "061-582778",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Chatara Hospital ",
+        "number": "025-550011",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Sunsari",
+        "city": "Barahakshetra",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Chetan Sheel",
+        "number": "984-2266231",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Morang",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Chhetrapati Nisulka Chikitsalaya",
+        "number": "01-4257911",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Chhetrapati ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Chhitwan medical college and teaching hospital ",
+        "number": "053-550012",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Chimeki Maitri Samaj ",
+        "number": 9841441275,
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Jorpati",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Chitwan Ambulance ",
+        "number": "984-5210197",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Chitwan District Police ",
+        "number": "056-594255",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Chitwan Hospital Pvt ltd ",
+        "number": "056-527101",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Chitwan Model Hospital ",
+        "number": 9869996569,
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Chopda Hospital ",
+        "number": "094-412139",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Doti",
+        "city": "Dipayal",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Chopda Hospital ",
+        "number": "094-412139",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Doti",
+        "city": "Dipayal silagadhi ",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Civil Hospital",
+        "number": "041-07000",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Minbhawan ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Civil Service Hospital Of Nepal ",
+        "number": "046-530497",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Minbhawan",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Crimson Hospital ",
+        "number": "071-562744",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Tilottama",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Dadeldhura District Hospital Office ",
+        "number": "096-420188",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Dadeldhura",
+        "city": "Amargadhi ",
+        "latitude": 29.3013,
+        "longitude": 80.5925
+    },
+    {
+        "name": "Dadeldhura District Police ",
+        "number": "096-420199",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Dadeldhura",
+        "latitude": 29.3013,
+        "longitude": 80.5925
+    },
+    {
+        "name": "Dadeldhura Hospital ",
+        "number": "096-410254",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Dadeldhura",
+        "city": "Amargadhi ",
+        "latitude": 29.3013,
+        "longitude": 80.5925
+    },
+    {
+        "name": "Dailekh ",
+        "number": "089-410185",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Dailekh",
+        "latitude": 28.8456,
+        "longitude": 81.5316
+    },
+    {
+        "name": "Dailekh District Hospital ",
+        "number": "089-410185",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Dailekh",
+        "latitude": 28.8456,
+        "longitude": 81.5316
+    },
+    {
+        "name": "Dailekh District Police ",
+        "number": "089-420113",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Dailekh",
+        "latitude": 28.8456,
+        "longitude": 81.5316
+    },
+    {
+        "name": "Dang Airport ",
+        "number": "082-520369",
+        "category": "Airpot",
+        "province": "Province 5",
+        "district": "Dang",
+        "latitude": 27.9881,
+        "longitude": 82.2904
+    },
+    {
+        "name": "Dang Blood Transfusion Service ",
+        "number": "082-561460",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Dang",
+        "latitude": 27.9881,
+        "longitude": 82.2904
+    },
+    {
+        "name": "Dang District Police ",
+        "number": "082-560199",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Dang",
+        "latitude": 27.9881,
+        "longitude": 82.2904
+    },
+    {
+        "name": "Darchula District Hospital ",
+        "number": "093-420188",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Darchula",
+        "city": "Galphain",
+        "latitude": 29.8728,
+        "longitude": 80.5292
+    },
+    {
+        "name": "Darchula District Police ",
+        "number": "099-420199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Darchula",
+        "latitude": 29.8728,
+        "longitude": 80.5292
+    },
+    {
+        "name": "Deuti Hospital Pvt ltd ",
+        "number": "984-8021340",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Surkhet",
+        "city": "Birendranagar ",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Dhading District Police ",
+        "number": "010-520199",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Dhading",
+        "latitude": 27.971,
+        "longitude": 84.9096
+    },
+    {
+        "name": "Dhading hospital ",
+        "number": 9854029396,
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Dhading",
+        "city": "Dhading ",
+        "latitude": 27.971,
+        "longitude": 84.9096
+    },
+    {
+        "name": "Dhangadhi Airport ",
+        "number": "091-525702",
+        "category": "Airpot",
+        "province": "Province 7",
+        "district": "Kailali",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Dhankuta District Hospital ",
+        "number": "026-520135",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Dhankuta",
+        "latitude": 26.9821,
+        "longitude": 87.3233
+    },
+    {
+        "name": "Dhankuta District Police ",
+        "number": "026-520100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Dhankuta",
+        "latitude": 26.9821,
+        "longitude": 87.3233
+    },
+    {
+        "name": "Dhankuta Hospital Ambulance ",
+        "number": "984-2060752",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Dhankuta",
+        "latitude": 26.9821,
+        "longitude": 87.3233
+    },
+    {
+        "name": "Dhanusa Blood Transfusion Service ",
+        "number": "041-520870",
+        "category": "Blood Bank",
+        "province": "Province 4",
+        "district": "Dhanusa",
+        "city": "Janakpur",
+        "latitude": 26.833,
+        "longitude": 86.0047
+    },
+    {
+        "name": "Dhanusa District Police ",
+        "number": "041-520099",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Dhanusa",
+        "latitude": 26.833,
+        "longitude": 86.0047
+    },
+    {
+        "name": "Dhaulagiri Zonal Hospital ",
+        "number": "068-520188",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Parbat",
+        "city": "Durlung",
+        "latitude": 28.2031,
+        "longitude": 83.6761
+    },
+    {
+        "name": "Dhulikhel Hospital ",
+        "number": "011-490497",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kavrepalan chowk",
+        "city": "Dhulikhel",
+        "latitude": 27.579,
+        "longitude": 85.556
+    },
+    {
+        "name": "Dhulikhel hospital ",
+        "number": 9816290917,
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kavrepalan chowk",
+        "city": "Dhulikhel",
+        "latitude": 27.579,
+        "longitude": 85.556
+    },
+    {
+        "name": "Dhurkot Health Post ",
+        "number": "984-7570904",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Gulmi",
+        "city": "Dhurkot rajasthal",
+        "latitude": 28.0432,
+        "longitude": 83.3102
+    },
+    {
+        "name": "Dobhan Polyclinic Pvt Ltd ",
+        "number": "984-3988090",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Salyan",
+        "city": "Salyan ",
+        "latitude": 28.3521,
+        "longitude": 82.1722
+    },
+    {
+        "name": "Dolakha District Hospital ",
+        "number": "049-421199",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Dolakha",
+        "latitude": 27.7667,
+        "longitude": 86.1167
+    },
+    {
+        "name": "Dolakha Samudayik hospital Pvt Ltd ",
+        "number": "055-5655146",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Dolakha",
+        "city": "Bhimeshwor",
+        "latitude": 27.7667,
+        "longitude": 86.1167
+    },
+    {
+        "name": "Dolpa Airport ",
+        "number": "081-565013",
+        "category": "Airpot",
+        "province": "Province 6",
+        "district": "Dolpa",
+        "latitude": 29.0774,
+        "longitude": 83.1752
+    },
+    {
+        "name": "Dolpa District Hospital ",
+        "number": "087-550110",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Dolpa",
+        "city": "Dunai",
+        "latitude": 29.0774,
+        "longitude": 83.1752
+    },
+    {
+        "name": "Dolpa District Police ",
+        "number": "087-550056",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Dolpa",
+        "latitude": 29.0774,
+        "longitude": 83.1752
+    },
+    {
+        "name": "Donor Nepal ",
+        "number": "985-1031570",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Devkota sadak ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Dorpatan Airport ",
+        "number": "029-420118",
+        "category": "Airpot",
+        "province": "Province 4",
+        "district": "Baglung",
+        "latitude": 28.2713,
+        "longitude": 83.5832
+    },
+    {
+        "name": "Doti Airport ",
+        "number": "094-420111",
+        "category": "Airpot",
+        "province": "Province 7",
+        "district": "Doti",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Doti District Hospital ",
+        "number": "094-420043",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Doti",
+        "city": "Dipayal silagadhi ",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Doti District Police ",
+        "number": "094-420205",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Doti",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Doti Hospital ",
+        "number": "094-420019",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Doti",
+        "city": "Dipayal silagadhi ",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Dr Jwamura Memorial Hospital ",
+        "number": "01-6612705",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Sallaghari",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Dr.Megh Bahadur Parajuli Community Hospital ",
+        "number": "027-520417",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Illam",
+        "latitude": 26.9074,
+        "longitude": 87.9209
+    },
+    {
+        "name": "Eastern Rukum District Police ",
+        "number": "088-413052",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Eastern rukum",
+        "latitude": 28.7441,
+        "longitude": 82.4778
+    },
+    {
+        "name": "Evergreen Hospital ",
+        "number": "078-520072",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Parasi",
+        "city": "Ramgram ",
+        "latitude": 27.6781,
+        "longitude": 83.4322
+    },
+    {
+        "name": "Far Western Regional Police Hospital ",
+        "number": "981-4662163",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Doti",
+        "city": "Dipayal silagadhi ",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Frontline Hospital Blood Bank ",
+        "number": "059-70132",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Frontline Hospital Blood Bank ",
+        "number": "01-5970132",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "GBC Ambulance Service ",
+        "number": "071-546197",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Butwal",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Gajendra Narayan Singh Sagarmatha Zonal Hospital  ",
+        "number": "031-520155",
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Saptari",
+        "city": "Rajbiraj",
+        "latitude": 26.631,
+        "longitude": 86.6987
+    },
+    {
+        "name": "Galkot Hospital Pvt ltdGalkot ",
+        "number": 9847633255,
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Baglung",
+        "city": "Galkot",
+        "latitude": 28.2713,
+        "longitude": 83.5832
+    },
+    {
+        "name": "Galyang Community Hospital ",
+        "number": "063-460461",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Syangja",
+        "city": "Jagatradevi",
+        "latitude": 28.1004,
+        "longitude": 83.8634
+    },
+    {
+        "name": "Ganeshman Singh Sagarmatha Memorial Hospital and Research Centre Pvt Ltd ",
+        "number": "046-520183",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Mahalaxmisthan",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Gangalal Hospital ",
+        "number": "01-4371322",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Gaur hospital Pvt Ltd",
+        "number": 9842162060,
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "city": "Gaur",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Gautam Buddha Int'l Cardiac hospital ",
+        "number": 9844548954,
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kathmandu ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Gautam Buddha International Airport ",
+        "number": "071-597021",
+        "category": "Airpot",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Golden Hospital Pvt Ltd ",
+        "number": "981-6391881",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Morang",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Gorkha Apollo Hospital ",
+        "number": "064-421223",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Gorkha",
+        "city": "Gorkha ",
+        "latitude": 28.4244,
+        "longitude": 84.6233
+    },
+    {
+        "name": "Gorkha District Hospital ",
+        "number": "064-420208",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Gorkha",
+        "city": "Gorkha ",
+        "latitude": 28.4244,
+        "longitude": 84.6233
+    },
+    {
+        "name": "Gorkha District Police ",
+        "number": "064-420237",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Gorkha",
+        "latitude": 28.4244,
+        "longitude": 84.6233
+    },
+    {
+        "name": "Grande Hospital ",
+        "number": "01-4371322",
+        "category": "Blood Bank",
+        "province": "Province 6",
+        "district": "Kathmandu",
+        "city": "Basbari road ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Grande International Hospital ",
+        "number": "01-5159266",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Tokha Rd",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Green Pastures Hospital ",
+        "number": "061-430342",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Gulmi District Hospital ",
+        "number": "079-520199",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Gulmi",
+        "latitude": 28.0432,
+        "longitude": 83.3102
+    },
+    {
+        "name": "Hamro Life Bank ",
+        "number": "980-1230045",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Hanumant hospital Pvt Ltd ",
+        "number": "046-540213",
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Sarlahi",
+        "city": "Gudri Bazar Barahathawa",
+        "latitude": 26.9623,
+        "longitude": 85.5488
+    },
+    {
+        "name": "Harion hospital Pvt Ltd ",
+        "number": 9844091889,
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Sarlahi",
+        "city": "Hariwan",
+        "latitude": 26.9623,
+        "longitude": 85.5488
+    },
+    {
+        "name": "Health Care Ambulance ",
+        "number": "081-525410",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Nepalgunj",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Helios hospital ",
+        "number": "046-530700",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Lalitpur ",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Hetauda Hospital ",
+        "number": "033-520065",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Makwanpur",
+        "city": "Hetauda",
+        "latitude": 27.3898,
+        "longitude": 85.028
+    },
+    {
+        "name": "Himal Dental Hospital ",
+        "number": "099-520800",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "city": "Bhimdatta",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Himal Hospital ",
+        "number": "986-2737316",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Thirbum Marg",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Hope Hospital ",
+        "number": "01-4110842",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Sinamangal road",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Humla District Hospital ",
+        "number": "087-680024",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Humla",
+        "city": "Simikot",
+        "latitude": 30.0053,
+        "longitude": 81.9115
+    },
+    {
+        "name": "Humla District Police ",
+        "number": "087-680099",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Humla",
+        "latitude": 30.0053,
+        "longitude": 81.9115
+    },
+    {
+        "name": "ICU Ambulance in Chitwan ",
+        "number": "984-5151558",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Illam District BTSC ",
+        "number": "027-520022",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Illam",
+        "latitude": 26.9074,
+        "longitude": 87.9209
+    },
+    {
+        "name": "Illam District Hospital ",
+        "number": "027-520033",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Illam",
+        "latitude": 26.9074,
+        "longitude": 87.9209
+    },
+    {
+        "name": "Illam District Police ",
+        "number": "027-520100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Illam",
+        "latitude": 26.9112,
+        "longitude": 87.9238
+    },
+    {
+        "name": "Inaruwa District Hospital ",
+        "number": "025-560119",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Sunsari",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Jagadish ramrati hospital Pvt Ltd ",
+        "number": 9816857555,
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Sarlahi",
+        "city": "Kurtha",
+        "latitude": 26.9623,
+        "longitude": 85.5488
+    },
+    {
+        "name": "Jajarkot District Hospital ",
+        "number": "089-430188",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Jajarkot",
+        "city": "Khalang",
+        "latitude": 28.9258,
+        "longitude": 82.1948
+    },
+    {
+        "name": "Jajarkot District Police ",
+        "number": "089-430100",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Jajarkot",
+        "latitude": 28.9258,
+        "longitude": 82.1948
+    },
+    {
+        "name": "Jalheshwor district hospital ",
+        "number": "984-4032010",
+        "category": "Hospital",
+        "province": "Province 2",
+        "district": "Mahottari",
+        "city": "Jalheshwor ",
+        "latitude": 26.8672,
+        "longitude": 85.7991
+    },
+    {
+        "name": "Janaki Medical College Teaching Hospital ",
+        "number": "01-4435957",
+        "category": "Blood Bank",
+        "province": "Province 2",
+        "district": "Dhanusa",
+        "city": "Janakpur ",
+        "latitude": 26.833,
+        "longitude": 86.0047
+    },
+    {
+        "name": "Janakpur Airport ",
+        "number": "041-520884",
+        "category": "Airpot",
+        "province": "Province 2",
+        "district": "Dhanusa",
+        "city": "Janakpur ",
+        "latitude": 26.833,
+        "longitude": 86.0047
+    },
+    {
+        "name": "Jeet Bahadur Khadka ",
+        "number": "984-6077946",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Kaski",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Jhapa Blood Transfusion Service ",
+        "number": "023-541833",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamod",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Jhapa District Police ",
+        "number": "023-520100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Jitpur Ambulance ",
+        "number": "986-2009552",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Illam",
+        "city": "Jitpur",
+        "latitude": 26.9112,
+        "longitude": 87.9238
+    },
+    {
+        "name": "Jogbuda Hospital Ambulance ",
+        "number": "096-411008",
+        "category": "Ambulance",
+        "province": "Province 7",
+        "district": "Dadeldhura",
+        "city": "Parashuram ",
+        "latitude": 29.3013,
+        "longitude": 80.5925
+    },
+    {
+        "name": "Jomsom Airport ",
+        "number": "087-520015",
+        "category": "Airpot",
+        "province": "Province 4",
+        "district": "Mustang",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Jomsom District Hospital ",
+        "number": "069-440088",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Mustang",
+        "city": "Jomsom ",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Jomsom Health Post",
+        "number": "069-440292",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Mustang",
+        "city": "Jomsom",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Jumla District Blood Bank ",
+        "number": "087-520036",
+        "category": "Blood Bank",
+        "province": "Province 6",
+        "district": "Jumla",
+        "latitude": 29.2788,
+        "longitude": 82.1785
+    },
+    {
+        "name": "Jumla District Police ",
+        "number": "087-520013",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Jumla",
+        "latitude": 29.2788,
+        "longitude": 82.1785
+    },
+    {
+        "name": "KG Hospital Pvt Ltd ",
+        "number": "985-8477359",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi ",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "KMC Hospital ",
+        "number": "01-6618007",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Changunarayan Rd ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kailali District Police ",
+        "number": "091-521150",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Kailali",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Kailali Hospital Pvt Ltd ",
+        "number": "091-524555",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Kalamati Blood Bank ",
+        "number": "980-8530922",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kalikot District Police ",
+        "number": "087-44083",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Kalikot",
+        "latitude": 29.2017,
+        "longitude": 81.7806
+    },
+    {
+        "name": "Kanchanjunga Hospital ",
+        "number": "023-544699",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Charpane",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Kanchanpur District Blood Bank ",
+        "number": "099-525588",
+        "category": "Blood Bank",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Kanchanpur District Police ",
+        "number": "099-521200",
+        "category": "Police Station",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Kankai Hospital Pvt Ltd ",
+        "number": "023-543818",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Anarmani ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Kantipur Hospital ",
+        "number": "01-4111627",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Shriganesh marg",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kantipur Hospital ",
+        "number": "01-4111692",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kapilvastu District Hospital ",
+        "number": "076-560200",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Kapilvastu",
+        "latitude": 27.7903,
+        "longitude": 82.9026
+    },
+    {
+        "name": "Kapilvastu District Police ",
+        "number": "076-560099",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Kapilvastu",
+        "latitude": 27.7903,
+        "longitude": 82.9026
+    },
+    {
+        "name": "Karnali Academy of Health Science and Teaching Hospital ",
+        "number": "087-520355",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Jumla",
+        "latitude": 29.2788,
+        "longitude": 82.1785
+    },
+    {
+        "name": "Kaski District Hospital ",
+        "number": "061-538633",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Kaski",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Kaski Model Hospital ",
+        "number": "061-539803",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Kaski Regional Blood Transfusion Service ",
+        "number": "061-521091",
+        "category": "Blood Bank",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Kathmandu Cancer Center ",
+        "number": "01-5091629",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Changunarayan Rd",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kathmandu District Hospital ",
+        "number": "01-4231466",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kathmandu Medical College and Teaching Hospital ",
+        "number": "01-4469064 ",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Baburam Acharya road",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kathmandu Model Hospital ",
+        "number": "01-4240805",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Red cross marg",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kathmandu Neuro and General Hospital ",
+        "number": "01-5327735",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Durbar marg",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "KathmanduHospital ",
+        "number": "01-4229656",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Tripureshor marg",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Kavrepalanchowk District Police ",
+        "number": "011-490100",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Kavrepalanchowk",
+        "latitude": 27.579,
+        "longitude": 85.556
+    },
+    {
+        "name": "Khotang District Hospital ",
+        "number": "036-420188",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Khotang",
+        "latitude": 27.2088,
+        "longitude": 86.7889
+    },
+    {
+        "name": "Khotang District Police ",
+        "number": "036-420199",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Khotang",
+        "latitude": 27.2088,
+        "longitude": 86.7889
+    },
+    {
+        "name": "Khwopa Hospital ",
+        "number": "01-6610317",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Chyamhasingha",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Kohalpur Bahu-Udeshiya Sahakari Ambulance ",
+        "number": "081-541700",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Kohalpur ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Kritipur Ambulance ",
+        "number": "01-4330200",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kritipur ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Laliguras Hospital ",
+        "number": "01-5152245",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Ring Rd ",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Lalitpur Blood Bank ",
+        "number": "01-5006464",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Lalitpur District Police ",
+        "number": "01-5521207",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Lalitpur Nepal Red Cross Blood Bank ",
+        "number": "01-5427033",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Pulchowk ",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Lamahi City Hospital ",
+        "number": "082-590290",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Dang",
+        "latitude": 27.9881,
+        "longitude": 82.2904
+    },
+    {
+        "name": "Lamjung Community Hospital ",
+        "number": "066-520183",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Lamjung",
+        "city": "Besisahar",
+        "latitude": 28.2583,
+        "longitude": 84.3516
+    },
+    {
+        "name": "Lamjung Community Hospital ",
+        "number": "066-520183",
+        "category": "Blood Bank",
+        "province": "Province 4",
+        "district": "Lamjung",
+        "latitude": 28.2583,
+        "longitude": 84.3516
+    },
+    {
+        "name": "Lamjung District Hospital ",
+        "number": "066-520199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Lamjung",
+        "latitude": 28.2583,
+        "longitude": 84.3516
+    },
+    {
+        "name": "Lamjung Model Hospital ",
+        "number": "066-520004",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Lamjung",
+        "city": "Besisahar ",
+        "latitude": 28.2583,
+        "longitude": 84.3516
+    },
+    {
+        "name": "Lekhnath City Hospital Pvt ltd ",
+        "number": "061-411167",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Lekhnath ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Life line hospital ",
+        "number": "023-580636",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Damak",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Lumbini Province Hospital ",
+        "number": "071-540200",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Butwal",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Madhyapur Hospital ",
+        "number": "01-5093388",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Madhyapur thimi ",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Mahakali Ayurved Ausadhalya",
+        "number": "099-521316",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "city": "Bhimdatta ",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Mahottari District Police ",
+        "number": "044-520199",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Mahottari",
+        "latitude": 26.8672,
+        "longitude": 85.7991
+    },
+    {
+        "name": "Makwanpur District Hospital ",
+        "number": "057-520399",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Makwanpur",
+        "latitude": 27.3898,
+        "longitude": 85.028
+    },
+    {
+        "name": "Makwanpur Sahakari Hospital ",
+        "number": "057-526587",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Makwanpur",
+        "city": "Hetauda",
+        "latitude": 27.3898,
+        "longitude": 85.028
+    },
+    {
+        "name": "Managya City Hospital ",
+        "number": "088-413015",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "East rukum",
+        "city": "Rukum",
+        "latitude": 28.7441,
+        "longitude": 82.4778
+    },
+    {
+        "name": "Manakamana Hospital ",
+        "number": "056-520180",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "Manang Airport ",
+        "number": "066-440457",
+        "category": "Airpot",
+        "province": "Province 4",
+        "district": "Manang",
+        "latitude": 28.6696,
+        "longitude": 84.0188
+    },
+    {
+        "name": "Manang District Hospital ",
+        "number": "066-440197",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Manang",
+        "city": "Chame ",
+        "latitude": 28.6696,
+        "longitude": 84.0188
+    },
+    {
+        "name": "Manang District Police ",
+        "number": "066-440199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Manang",
+        "latitude": 28.6696,
+        "longitude": 84.0188
+    },
+    {
+        "name": "Manipal Teaching Hospital ",
+        "number": "061-526416",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kaski",
+        "city": "Pokhara",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Manmohan Hospital ",
+        "number": "023-545252",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Matrika Health care ",
+        "number": "099-416082",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "city": "Bhimdatta ",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Mechi Zonal Hospital ",
+        "number": "023-520172",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Bhadrapur",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Medika hospital Pvt Ltd ",
+        "number": "023-545467",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Megha Hospital Pvt ltd ",
+        "number": "01-5153398",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Naya bato ",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Mental Hospital ",
+        "number": "01-5521333",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Patan",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Mid-Western Regional Hospital ",
+        "number": "083-520200",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Surkhet",
+        "city": "Birendranagar ",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Midat Hospital ",
+        "number": "01-5547370",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Karuna Rd",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Morang District Hospital ",
+        "number": "021-555343",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Morang",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Morang District Police ",
+        "number": "021-5462158",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Morang",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Morang Regional Blood Transfusion Service ",
+        "number": "021-523326",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Biratnagar ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Mugu District Hospital ",
+        "number": "087-460161",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Mugu",
+        "latitude": 29.053,
+        "longitude": 82.119
+    },
+    {
+        "name": "Mugu District Police ",
+        "number": "087-460099",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Mugu",
+        "latitude": 29.053,
+        "longitude": 82.119
+    },
+    {
+        "name": "Muktinath Hospital ",
+        "number": "068-522269",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Mustang",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Mustang District Hospital ",
+        "number": "069-520525",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Mustang",
+        "city": "Jomsom ",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Mustang District Hospital ",
+        "number": "069-440291",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Mustang",
+        "city": "Jomsom",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Mustang District Police ",
+        "number": "069-440099",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Mustang",
+        "latitude": 28.9828,
+        "longitude": 83.8473
+    },
+    {
+        "name": "Myagdi District Hospital ",
+        "number": "069-520525",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Myagdi",
+        "city": "Beni ",
+        "latitude": 28.2031,
+        "longitude": 83.6761
+    },
+    {
+        "name": "Myagdi District Police ",
+        "number": "069-520199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Myagdi",
+        "latitude": 28.4986,
+        "longitude": 83.0896
+    },
+    {
+        "name": "Namaste public Hospital",
+        "number": "023-583043",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Damak ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Namuna Hospital Pvt Ltd ",
+        "number": "066-402124",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Lamjung",
+        "city": "Sundarbazar",
+        "latitude": 28.2583,
+        "longitude": 84.3516
+    },
+    {
+        "name": "Narayani Samudayik Hospital ",
+        "number": "056-493211",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Chitwan",
+        "city": "Bharatpur ",
+        "latitude": 27.534,
+        "longitude": 84.4812
+    },
+    {
+        "name": "National Hospital and Cancer Research Centre ",
+        "number": "01-5906323",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Patan",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Navajeevan Hospital Pvt Ltd ",
+        "number": "099-416082",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "city": "Bhimdatta ",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Navajeevan Hospital Pvt Ltd ",
+        "number": "091-521233",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi ",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Navan Hospital ",
+        "number": "091-521592",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi ",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Nawalpur District Hospital ",
+        "number": "078-540100",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Nawalpur",
+        "latitude": 27.5829,
+        "longitude": 83.4323
+    },
+    {
+        "name": "Nepal Ambulance Service ",
+        "number": "01-4427833",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepal Bharat Maitri Hospital ",
+        "number": "01-5241288",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Dakshina murti marg",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepal Korea Friendship Municipality Hospital ",
+        "number": "01-6633442",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Madhyapur thimi ",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Nepal Mediciti Hospital ",
+        "number": "01-4217766",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Nakhkhu Ukalo Rd",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Nepal Mediciti Hospital ",
+        "number": "01-4217766",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Nakhkhu ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepal Police Hospital ",
+        "number": "01-4412430",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Maharajgunj ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepal Red Cross Blood Bank ",
+        "number": "091-521600",
+        "category": "Blood Bank",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi ",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Nepal Red Cross Society ",
+        "number": "011-661431",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kavrepalanchowk",
+        "city": "Banepa",
+        "latitude": 27.579,
+        "longitude": 85.556
+    },
+    {
+        "name": "Nepal Red Cross Society ",
+        "number": "081-551743",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Nepalgunj ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Nepal Red Cross Society ",
+        "number": "023-582101",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Damak",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Nepal Red Cross Society Ambulance ",
+        "number": "091-521600",
+        "category": "Ambulance",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi ",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Nepal Red Cross Society Blood Bank",
+        "number": "051-522504",
+        "category": "Blood Bank",
+        "province": "Province 2",
+        "district": "Parsa",
+        "city": "Birgunj ",
+        "latitude": 27.1167,
+        "longitude": 84.896
+    },
+    {
+        "name": "Nepal Red Cross Society Blood Bank ",
+        "number": "033-563975",
+        "category": "Blood Bank",
+        "province": "Province 2",
+        "district": "Siraha",
+        "latitude": 26.825,
+        "longitude": 86.2065
+    },
+    {
+        "name": "Nepal Red Cross Society Central Blood Transfusion Service ",
+        "number": "01-4288485",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepal Red Cross Society Regional Blood Transfusion Service Center ",
+        "number": "021-423326",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Biratnagar ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Nepal medical college ",
+        "number": "01-4911008",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Nakhkhu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepal medical college ",
+        "number": "01-4911008",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Gokarneshwor ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nepalgunj Airport ",
+        "number": "081-565210",
+        "category": "Airpot",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Nepalgunj ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Nepalgunj Nepal Red Cross Society ",
+        "number": "081-520174",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Nepalgunj ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "New Amda Hospital ",
+        "number": "023-580046",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Damak ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Nirsarga Hospital ",
+        "number": "091-526681",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kailali",
+        "city": "Dhangadhi ",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Nisan Hospital Ltd ",
+        "number": "01-5431333",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Patan",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Nobel Hospital ",
+        "number": "01-4110842",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Sinamangal",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Norvic International Hospital ",
+        "number": "01-5970032",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Thapathali",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Nuwakot District Police ",
+        "number": "010-560199",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Nuwakot",
+        "latitude": 27.9132,
+        "longitude": 85.144
+    },
+    {
+        "name": "Nuwakot Hospital and Research Centre ",
+        "number": "010-560640",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Nuwakot",
+        "city": "Bidur",
+        "latitude": 27.9132,
+        "longitude": 85.144
+    },
+    {
+        "name": "OM polyclinic Pvt Ltd ",
+        "number": "077-420329",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Arghakhanchi",
+        "city": "Sandhikharka ",
+        "latitude": 27.9972,
+        "longitude": 83.0367
+    },
+    {
+        "name": "Okhaldhunga Community Hospital ",
+        "number": "037-520176",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Okhaldhunga",
+        "city": "Siddhicharan",
+        "latitude": 27.3944,
+        "longitude": 86.3299
+    },
+    {
+        "name": "Okhaldhunga District Police ",
+        "number": "037-520199",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Okhaldhunga",
+        "latitude": 27.3944,
+        "longitude": 86.3299
+    },
+    {
+        "name": "Om Sai Pathibhara Hospital Pvt Ltd ",
+        "number": "023-453981",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Bhadrapur ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Om mechi Hospital ",
+        "number": "023-580784",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Damak",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Padama Chandra Memorial Hospital ",
+        "number": "021-555289",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Pathari ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Padama Hospital ",
+        "number": "099-550355",
+        "category": "Blood Bank",
+        "province": "Province 7",
+        "district": "Kailali",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Palpa District Police ",
+        "number": "076-560099",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Palpa",
+        "latitude": 27.8809,
+        "longitude": 83.785
+    },
+    {
+        "name": "Palpa Lions Lacoul Eye Hospital ",
+        "number": "075-520333",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Palpa",
+        "city": "Tansen",
+        "latitude": 27.8809,
+        "longitude": 83.785
+    },
+    {
+        "name": "Panchkanya Health Post ",
+        "number": "986-2812840",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Nuwakot",
+        "city": "Panchkanya pokhari",
+        "latitude": 27.9132,
+        "longitude": 85.144
+    },
+    {
+        "name": "Panchthar District Blood Bank ",
+        "number": "024-570273",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Panchthar",
+        "latitude": 27.2596,
+        "longitude": 87.8315
+    },
+    {
+        "name": "Panchthar District Hospital ",
+        "number": "024-520188",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Panchthar",
+        "city": "Phidim ",
+        "latitude": 27.2596,
+        "longitude": 87.8315
+    },
+    {
+        "name": "Panchthar District Police ",
+        "number": "024-520199",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Panchthar",
+        "latitude": 27.2596,
+        "longitude": 87.8315
+    },
+    {
+        "name": "Parasi District Police ",
+        "number": "078-520199",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Parasi",
+        "latitude": 27.2,
+        "longitude": 84.9167
+    },
+    {
+        "name": "Parbat District Police ",
+        "number": "067-420199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Parbat",
+        "latitude": 28.2031,
+        "longitude": 83.6761
+    },
+    {
+        "name": "Parbat district hospital ",
+        "number": "067-420414",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Parbat",
+        "city": "Kushma ",
+        "latitude": 28.2031,
+        "longitude": 83.6761
+    },
+    {
+        "name": "Paropakar Ambulance Service ",
+        "number": "01-4260859",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Parsa District Police ",
+        "number": "051-522151",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Parsa",
+        "latitude": 27.1167,
+        "longitude": 84.896
+    },
+    {
+        "name": "Patan Hospital ",
+        "number": "01-5522295",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Lagankhel ",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Patan Hospital ",
+        "number": "01-5522295",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Satdobato",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Pathari Hospital ",
+        "number": "021-555812",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Pathari ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    },
+    {
+        "name": "Phaplu Airport ",
+        "number": "038-520153",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Solukhumbu",
+        "city": "Phaplu ",
+        "latitude": 27.7784,
+        "longitude": 86.6578
+    },
+    {
+        "name": "Pokhara Airport ",
+        "number": "061-463038",
+        "category": "Airpot",
+        "province": "Province 4",
+        "district": "Kaski",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Pokhara International Airport ",
+        "number": "061-465725",
+        "category": "Airpot",
+        "province": "Province 4",
+        "district": "Kaski",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Prasuti Griha",
+        "number": "01-4260405",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Prasuti Griha marga ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Prithivi Chandra Hospital ",
+        "number": "078-520188",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Parasi",
+        "city": "Ramgram",
+        "latitude": 27.6781,
+        "longitude": 83.4322
+    },
+    {
+        "name": "Prithivi Narayan Community Hospital ",
+        "number": "064-430001",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Gorkha",
+        "city": "Gorkha",
+        "latitude": 28.4244,
+        "longitude": 84.6233
+    },
+    {
+        "name": "Purbanchal Cancer Hospital ",
+        "number": "980-1418662",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Pyuthan District Police ",
+        "number": "086-520033",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Pyuthan",
+        "latitude": 28.1017,
+        "longitude": 82.8701
+    },
+    {
+        "name": "Pyuthan Hospital ",
+        "number": "086-460010",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Pyuthan",
+        "latitude": 28.1017,
+        "longitude": 82.8701
+    },
+    {
+        "name": "Rajbiraj Airport ",
+        "number": "031-520700",
+        "category": "Airpot",
+        "province": "Province 2",
+        "district": "Saptari",
+        "city": "Rajbiraj ",
+        "latitude": 26.631,
+        "longitude": 86.6987
+    },
+    {
+        "name": "Rajkapur Paswan Ambulance Service ",
+        "number": 98454744552,
+        "category": "Ambulance",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "city": "Samanpur Gaur Rd",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Ramechhap Community Hospital ",
+        "number": "048-540476",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Ramechhap",
+        "city": "Manthali",
+        "latitude": 27.3581,
+        "longitude": 86.0567
+    },
+    {
+        "name": "Ramechhap District Hospital ",
+        "number": "048-400114",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Ramechhap",
+        "city": "Ramechhap ",
+        "latitude": 27.3581,
+        "longitude": 86.0567
+    },
+    {
+        "name": "Ramechhap District Police ",
+        "number": "048-540099",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Ramechhap",
+        "latitude": 27.3581,
+        "longitude": 86.0567
+    },
+    {
+        "name": "Rasuwa District Hospital ",
+        "number": "010-540199",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Rasuwa",
+        "latitude": 28.2622,
+        "longitude": 85.3722
+    },
+    {
+        "name": "Rautahat District Police ",
+        "number": "055-520840",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Red Cross Ambulance ",
+        "number": "081-541300",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Kohalpur ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Red Cross Ambulance ",
+        "number": "081-520104",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Banke",
+        "city": "Nepalgunj ",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Red Cross Ambulance ",
+        "number": "984-2627333",
+        "category": "Ambulance",
+        "province": "Province 1",
+        "district": "Illam",
+        "latitude": 26.9112,
+        "longitude": 87.9238
+    },
+    {
+        "name": "Red Cross Blood Bank ",
+        "number": "082-561460",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Dang",
+        "city": "Ghorahi",
+        "latitude": 27.9881,
+        "longitude": 82.2904
+    },
+    {
+        "name": "Regional Hospital Pvt ltd ",
+        "number": "061-541085",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Reiyukai Ambulance ",
+        "number": "081-523361",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Banke",
+        "latitude": 28.1464,
+        "longitude": 81.7696
+    },
+    {
+        "name": "Rolpa District Police ",
+        "number": "086-499113",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Rolpa",
+        "latitude": 28.3461,
+        "longitude": 82.6981
+    },
+    {
+        "name": "Rukum Chaurjahari Airport ",
+        "number": "089-680156",
+        "category": "Airpot",
+        "province": "Province 6",
+        "district": "Western rukum",
+        "latitude": 28.7441,
+        "longitude": 82.4778
+    },
+    {
+        "name": "Rukum salle Airport ",
+        "number": "975-2503142",
+        "category": "Airpot",
+        "province": "Province 6",
+        "district": "Western rukum",
+        "latitude": 28.7441,
+        "longitude": 82.4778
+    },
+    {
+        "name": "Rumjatar Airport ",
+        "number": "984-6385133",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Okhaldhunga",
+        "city": "Rumjatar",
+        "latitude": 27.3944,
+        "longitude": 86.3299
+    },
+    {
+        "name": "Rupandehi Blood Transfusion Service ",
+        "number": "071-550462",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Butwal",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Rupandehi District Police ",
+        "number": "071-520199",
+        "category": "Police Station",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Safal Hospital ",
+        "number": "068-522923",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Baglung",
+        "latitude": 28.2713,
+        "longitude": 83.5832
+    },
+    {
+        "name": "Safer Hospital ",
+        "number": "099-520805",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "city": "Bhimdatta ",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "Sahid Memorial Hospital ",
+        "number": "01-5218921",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kalanki",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Salyan District Hospital ",
+        "number": "088-520054",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Salyan",
+        "city": "Sharada",
+        "latitude": 28.3521,
+        "longitude": 82.1722
+    },
+    {
+        "name": "Salyan District Police ",
+        "number": "088-520099",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Salyan",
+        "latitude": 28.3521,
+        "longitude": 82.1722
+    },
+    {
+        "name": "Sankhuwasabha District Hospital ",
+        "number": "029-560188",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Sankhuwasabha",
+        "city": "Khandbari",
+        "latitude": 27.5302,
+        "longitude": 87.2575
+    },
+    {
+        "name": "Sankhuwasabha District Police ",
+        "number": "029-560100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Sankhuwasabha",
+        "latitude": 27.5302,
+        "longitude": 87.2575
+    },
+    {
+        "name": "Saptari District Hospital ",
+        "number": "031-520055",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Saptari",
+        "latitude": 26.631,
+        "longitude": 86.6987
+    },
+    {
+        "name": "Sarlahi District Police ",
+        "number": "046-520866",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Sarlahi",
+        "latitude": 26.9623,
+        "longitude": 85.5488
+    },
+    {
+        "name": "Scheee Memorial Hospital ",
+        "number": "011-661111",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kavrepalanchowk",
+        "city": "Banepa",
+        "latitude": 27.579,
+        "longitude": 85.556
+    },
+    {
+        "name": "Seed Hospital ",
+        "number": "082-540834",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Dang",
+        "latitude": 27.9881,
+        "longitude": 82.2904
+    },
+    {
+        "name": "Sewa Hospital and Research Centre ",
+        "number": "061-528161",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Shaurya Healthcare Foundation Pvt Ltd ",
+        "number": "025-570041",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Sunsari",
+        "city": "Dharan ",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Shining District Hospital ",
+        "number": "083-520105",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Surkhet",
+        "city": "Birendranagar ",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Shubhalaxmi Hospital Pvt ltd ",
+        "number": "083-524318",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Surkhet",
+        "city": "Birendranagar ",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Siddhababa Ambulance ",
+        "number": "017-549201",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Butwal",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Siddhakali Hospital Bhojpur Pvt Ltd ",
+        "number": "029-420648",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Bhojpur",
+        "city": "Dalgaun",
+        "latitude": 27.1741,
+        "longitude": 87.0524
+    },
+    {
+        "name": "Siddhi Memorial Hospital ",
+        "number": "01-6612945",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Bhimsenthan",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Simara Airport",
+        "number": "053-520210",
+        "category": "Airpot",
+        "province": "Province 2",
+        "district": "Bara",
+        "city": "Simara",
+        "latitude": 27.1347,
+        "longitude": 85.0534
+    },
+    {
+        "name": "Simikot Airport ",
+        "number": "087-680203",
+        "category": "Airpot",
+        "province": "Province 6",
+        "district": "Humla",
+        "latitude": 30.0053,
+        "longitude": 81.9115
+    },
+    {
+        "name": "Sindhuli District Police ",
+        "number": "047-520199",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Sindhuli",
+        "latitude": 27.2584,
+        "longitude": 85.9447
+    },
+    {
+        "name": "Sindhuli Hospital ",
+        "number": "047-520973",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Sindhuli",
+        "city": "Kamalamai",
+        "latitude": 27.2584,
+        "longitude": 85.9447
+    },
+    {
+        "name": "Sindhupalchowk ",
+        "number": "011-620104",
+        "category": "Police Station",
+        "province": "Province 3",
+        "district": "Sindhupalchowk",
+        "latitude": 27.9113,
+        "longitude": 85.7344
+    },
+    {
+        "name": "Siraha District Police ",
+        "number": "033-520005",
+        "category": "Police Station",
+        "province": "Province 2",
+        "district": "Siraha",
+        "latitude": 26.825,
+        "longitude": 86.2065
+    },
+    {
+        "name": "Skevin Nature and Care Hospital Pvt Ltd ",
+        "number": "01-5537584",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Tikabharab Rd",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Solukhumbu District Hospital ",
+        "number": "038-520188",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Solukhumbu",
+        "city": "Dudhakunda",
+        "latitude": 27.7784,
+        "longitude": 86.6578
+    },
+    {
+        "name": "Solukhumbu District Police ",
+        "number": "038-520299",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Solukhumbu",
+        "latitude": 27.7784,
+        "longitude": 86.6578
+    },
+    {
+        "name": "Soojung Hospital ",
+        "number": "094-440316",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Doti",
+        "city": "Dipayal silagadhi ",
+        "latitude": 29.0956,
+        "longitude": 80.5747
+    },
+    {
+        "name": "Spark Purwanchal Hospital ",
+        "number": "023-540123",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Jhapa",
+        "city": "Birtamode ",
+        "latitude": 26.6399,
+        "longitude": 87.8942
+    },
+    {
+        "name": "Sri Gyan Kunj Baal Club Ambulance Sewa ",
+        "number": "984-5037664",
+        "category": "Ambulance",
+        "province": "Province 2",
+        "district": "Rautahat",
+        "city": "Garauda",
+        "latitude": 26.972,
+        "longitude": 85.3125
+    },
+    {
+        "name": "Star Hospital Limited ",
+        "number": "01-5450197",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Sanepa heights Rd",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Suketar Airport ",
+        "number": "024-414018",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Taplejung",
+        "city": "Suketar",
+        "latitude": 27.6255,
+        "longitude": 87.743
+    },
+    {
+        "name": "Sumeru Hospital ",
+        "number": "01-5275377",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Lalitpur",
+        "city": "Patan",
+        "latitude": 27.6644,
+        "longitude": 85.3189
+    },
+    {
+        "name": "Sunsari Blood Transfusion Service ",
+        "number": "025-525555",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Sunsari",
+        "city": "Dharan",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Sunsari District Police ",
+        "number": "025-560100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Sunsari",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Sunsari Polyclinic and diagnosis Center Pvt ltd ",
+        "number": "025-525935",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Sunsari",
+        "city": "Dharan ",
+        "latitude": 26.6436,
+        "longitude": 87.0625
+    },
+    {
+        "name": "Surkhet Airport ",
+        "number": "083-921945",
+        "category": "Airpot",
+        "province": "Province 6",
+        "district": "Surkhet",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Surkhet District Police ",
+        "number": "083-520199",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Surkhet",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Surkhet Hospital Pvt Ltd ",
+        "number": "083-525417",
+        "category": "Hospital",
+        "province": "Province 6",
+        "district": "Surkhet",
+        "city": "Birendranagar ",
+        "latitude": 28.6263,
+        "longitude": 81.6536
+    },
+    {
+        "name": "Sutyabinayak Municipal Hospital ",
+        "number": "01-6618946",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Bhaktapur",
+        "city": "Araniko highway ",
+        "latitude": 27.671,
+        "longitude": 85.4296
+    },
+    {
+        "name": "Sworgiye Yogge Prasad Silwal Ambulance Service ",
+        "number": "984-5531600",
+        "category": "Ambulance",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Jutpani",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Syangja District Hospital ",
+        "number": "063-420239",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Syangja",
+        "city": "Putalibazar ",
+        "latitude": 28.1004,
+        "longitude": 83.8634
+    },
+    {
+        "name": "Syangja District Police ",
+        "number": "063-420199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Syangja",
+        "latitude": 28.1004,
+        "longitude": 83.8634
+    },
+    {
+        "name": "T and C Hospital Pvt Ltd ",
+        "number": "099-540244",
+        "category": "Hospital",
+        "province": "Province 7",
+        "district": "Kanchanpur",
+        "city": "Jhalari ",
+        "latitude": 28.7601,
+        "longitude": 80.3321
+    },
+    {
+        "name": "TU Lion Blood Transfusion and Research Center ",
+        "number": "985-1145895",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Kritipur ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Tamor Hospital Pvt Ltd ",
+        "number": "024-460599",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Taplejung",
+        "latitude": 27.6255,
+        "longitude": 87.743
+    },
+    {
+        "name": "Tanahun Ambulance Service ",
+        "number": "980-2326129",
+        "category": "Ambulance",
+        "province": "Province 4",
+        "district": "Tanahun",
+        "city": "Byas",
+        "latitude": 27.9433,
+        "longitude": 84.2286
+    },
+    {
+        "name": "Tanahun District Hospital ",
+        "number": "065-560199",
+        "category": "Police Station",
+        "province": "Province 4",
+        "district": "Tanahun",
+        "latitude": 27.9433,
+        "longitude": 84.2286
+    },
+    {
+        "name": "Taplejung District Hospital ",
+        "number": "024-460877",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Taplejung",
+        "latitude": 27.6255,
+        "longitude": 87.743
+    },
+    {
+        "name": "Taplejung District Police ",
+        "number": "024-460100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Taplejung",
+        "latitude": 27.6255,
+        "longitude": 87.743
+    },
+    {
+        "name": "Teaching Hospital ",
+        "number": "01-4412303",
+        "category": "Blood Bank",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Tenzing - Hillary Airport ",
+        "number": "038-550044",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Solukhumbu",
+        "latitude": 27.7784,
+        "longitude": 86.6578
+    },
+    {
+        "name": "Tenzing-Hillary Airport ",
+        "number": "038-550044",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Solukhumbu",
+        "latitude": 27.7784,
+        "longitude": 86.6578
+    },
+    {
+        "name": "Terhathum District Hospital ",
+        "number": "026-460188",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Terhathum",
+        "city": "Myanglung",
+        "latitude": 27.1987,
+        "longitude": 87.507
+    },
+    {
+        "name": "Terhathum District Police ",
+        "number": "026-460100",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Terhathum",
+        "latitude": 27.1987,
+        "longitude": 87.507
+    },
+    {
+        "name": "Tikapur Airport ",
+        "number": 8446192513,
+        "category": "Airpot",
+        "province": "Province 7",
+        "district": "Kailali",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Tilakpur Hospital ",
+        "number": "091-560406",
+        "category": "Blood Bank",
+        "province": "Province 7",
+        "district": "Kailali",
+        "latitude": 28.8464,
+        "longitude": 80.956
+    },
+    {
+        "name": "Tilganga Community Eye Hospital ",
+        "number": "066-440236",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Manang",
+        "latitude": 28.6696,
+        "longitude": 84.0188
+    },
+    {
+        "name": "Tribhuvan International Airport ",
+        "number": "01-4113033",
+        "category": "Airpot",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Trishuli Hospital ",
+        "number": "010-560188",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Nuwakot",
+        "city": "Bidur",
+        "latitude": 27.9132,
+        "longitude": 85.144
+    },
+    {
+        "name": "Tumlingtar Airport ",
+        "number": "029-575121",
+        "category": "Airpot",
+        "province": "Province 1",
+        "district": "Sankhuwasabha",
+        "city": "Tumlingtar ",
+        "latitude": 27.5302,
+        "longitude": 87.2575
+    },
+    {
+        "name": "Udayapur District Hospital ",
+        "number": "035-420187",
+        "category": "Hospital",
+        "province": "Province 1",
+        "district": "Udayapur",
+        "city": "Gaighat",
+        "latitude": 26.8945,
+        "longitude": 86.7812
+    },
+    {
+        "name": "Udayapur District Police ",
+        "number": "035-420199",
+        "category": "Police Station",
+        "province": "Province 1",
+        "district": "Udayapur",
+        "latitude": 26.8945,
+        "longitude": 86.7812
+    },
+    {
+        "name": "Unique College of Medical Science and Hospital ",
+        "number": "980-4728301",
+        "category": "Ambulance",
+        "province": "Province 2",
+        "district": "Saptari",
+        "latitude": 26.631,
+        "longitude": 86.6987
+    },
+    {
+        "name": "United Mission Hospital ",
+        "number": "075-520958",
+        "category": "Hospital",
+        "province": "Province 5",
+        "district": "Palpa",
+        "city": "Tansen ",
+        "latitude": 27.8809,
+        "longitude": 83.785
+    },
+    {
+        "name": "United Mission Hospital ",
+        "number": "075-520958",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Palpa",
+        "latitude": 27.8809,
+        "longitude": 83.785
+    },
+    {
+        "name": "Universal College of Medical Science ",
+        "number": "071-522896",
+        "category": "Blood Bank",
+        "province": "Province 5",
+        "district": "Rupandehi",
+        "city": "Siddharthanagar",
+        "latitude": 27.6277,
+        "longitude": 83.4151
+    },
+    {
+        "name": "Vayodha Hospital ",
+        "number": "01-4286428",
+        "category": "Hospital",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "city": "Balkhu ",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Western Regional Hospital ",
+        "number": "061-520461",
+        "category": "Hospital",
+        "province": "Province 4",
+        "district": "Kaski",
+        "city": "Pokhara ",
+        "latitude": 28.226,
+        "longitude": 83.9226
+    },
+    {
+        "name": "Western Rukum District Police ",
+        "number": "088-530187",
+        "category": "Police Station",
+        "province": "Province 6",
+        "district": "Western rukum",
+        "latitude": 28.7441,
+        "longitude": 82.4778
+    },
+    {
+        "name": "Worldmed Global ",
+        "number": "985-1248606",
+        "category": "Ambulance",
+        "province": "Province 3",
+        "district": "Kathmandu",
+        "latitude": 27.7172,
+        "longitude": 85.324
+    },
+    {
+        "name": "Youth For Blood ",
+        "number": "986-2005225",
+        "category": "Blood Bank",
+        "province": "Province 1",
+        "district": "Morang",
+        "city": "Biratnagar ",
+        "latitude": 26.6406,
+        "longitude": 87.517
+    }
+]
