@@ -10,8 +10,6 @@ Aakasmik aims to centralize all the emergency contacts of Nepal in one place to 
 
 
 
----
-
 <h2> Aakasmik Web Application</h2>
 
 The Aakasmik Web Application is live! You can access it at:
