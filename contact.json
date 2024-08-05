@@ -1,5 +1,115 @@
 [
     {
+        "name": "Nepal Police",
+        "number": "100",
+        "category": "Police Station",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Fire Support",
+        "number": "101",
+        "category": "Fire",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Ambulance Support",
+        "number": "102",
+        "category": "Ambulance",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Traffic Support",
+        "number": "103",
+        "category": "Traffic",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Child Helpline",
+        "number": "104",
+        "category": "Child Helpline",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Child Helpline",
+        "number": "104",
+        "category": "Child Helpline",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "CIAA",
+        "number": "107",
+        "category": "Misc",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Missing Child Response",
+        "number": "1098",
+        "category": "Misc",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Armed Police Force Support",
+        "number": "1114",
+        "category": "Misc",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "Women Helpline",
+        "number": "1145",
+        "category": "Misc",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
+        "name": "NEA Helpline",
+        "number": "1149",
+        "category": "Misc",
+        "province": "-",
+        "district": "-",
+        "city": "-",
+        "latitude": 27.7172,
+        "longitude": 85.3240
+    },
+    {
         "name": "API Hospital ",
         "number": "096-420912",
         "category": "Hospital",
